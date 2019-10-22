@@ -247,31 +247,19 @@ F https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-3030CM
 $ENDCMP
 #
 $CMP SG-5032CAN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 1 to 75 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CAN&lang=en
 $ENDCMP
 #
 $CMP SG-5032CBN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 80 to 170 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CBN&lang=en
 $ENDCMP
 #
 $CMP SG-5032CCN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 2.5 to 50 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CCN&lang=en
 $ENDCMP
@@ -295,31 +283,19 @@ F https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-51P
 $ENDCMP
 #
 $CMP SG-7050CAN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 1 to 75 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&lang=en
 $ENDCMP
 #
 $CMP SG-7050CBN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 80 to 170 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CBN&lang=en
 $ENDCMP
 #
 $CMP SG-7050CCN
-<<<<<<< HEAD
-D CMOS Clock Oscillator
-=======
 D CMOS Clock Oscillator 2.5 to 50 MHz
->>>>>>> TPS54331
 K Crystal Clock Oscillator
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&lang=en
 $ENDCMP

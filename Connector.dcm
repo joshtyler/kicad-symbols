@@ -1218,17 +1218,15 @@ K Mini-DIN
 F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
 $ENDCMP
 #
-<<<<<<< HEAD
 $CMP RB1-125B8G1A
 D LAN Transformer Jack, RJ45, 10/100/1000 BaseT
 K lan jack transformer ethernet gigabit 10 100 1000 baset
 F https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf
-=======
+$ENDCMP
 $CMP Pulse_JXD6-0001NL
 D LAN Transformer Jack, RJ45, 10/100 BaseT
 K lan jack transformer
 F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf
->>>>>>> TPS54331
 $ENDCMP
 #
 $CMP RJ10
